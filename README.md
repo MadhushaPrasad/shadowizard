@@ -6,7 +6,7 @@ Get perfect shadows every time for the non-designer.
 
 `npm i shadowizard --save`
 
-Then... 
+<h3>Then...<h3> 
 
 `import {shadowizard} from 'shadowizard';
  shadowizard ({
