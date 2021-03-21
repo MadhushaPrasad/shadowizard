@@ -1,0 +1,22 @@
+{
+  "name": "BoxShadowizardy",
+  "version": "1.0.0",
+  "description": "Add perfect shadows every time for the non-designer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhushaPrasad/shadowizard.git"
+  },
+  "keywords": [
+    "boxshadow"
+  ],
+  "author": "madhusha_99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadhushaPrasad/shadowizard/issues"
+  },
+  "homepage": "https://github.com/MadhushaPrasad/shadowizard#readme"
+}
