@@ -7,16 +7,14 @@ Get perfect shadows every time for the non-designer.
 `npm i shadowizard --save`
 
 Then... 
-<br>
-<br>
+
 `import {shadowizard} from 'shadowizard';
  shadowizard ({
  shadow_type:'soft',
  padding:false
  });
 `
-<br>
-<br>
+
 ...
 
 ##Options
